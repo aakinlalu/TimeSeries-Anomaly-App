@@ -1,5 +1,5 @@
 ======================
-TimeSeries-Anomaly-App
+ML framework for Timeseries Anomaly Application
 ======================
 
 
